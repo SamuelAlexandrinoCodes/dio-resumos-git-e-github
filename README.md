@@ -27,6 +27,7 @@ $ git restore (nome) // retore old file before commit
 $ git log
 $ git reflog
 $ git status
+$ git add . 
 $ git commit -- amend -m"mensagem"
 $ git commit -m"mensagem"
 $ git reset --{soft / mixed / hard}
