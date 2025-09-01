@@ -30,6 +30,11 @@ $ git status
 $ git commit -- amend -m"mensagem"
 $ git commit -m
 $ git reset --{soft / mixed / hard}
+$ git checkout -b 'nome' // create new branch
+$ git checkout 'nome' // goto branch 'nome'
+$ git branch -v // show all branchs commits
+$ git merge 'name' // merge name with head branch
+$ git branch -d 'name' // delete name
 ```
 
 ## 🔎 Referencias
