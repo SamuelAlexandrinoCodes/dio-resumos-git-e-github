@@ -18,9 +18,17 @@ $ mkdir //create dir
 $ git remote add URL (name) // create path to github
 $ git clone URL (nome)
 $ git clone URL --branch nome --single branch
+$ git remote add origin URL
 $ cd (paste) //go to paste
 $ cd .. //go back
-
+$ rm -rf .git // undo .git 
+$ git restore (nome) // retore old file before commit
+$ git log
+$ git reflog
+$ git status
+$ git commit -- amend -m"mensagem"
+$ git commit -m
+$ git reset --{soft / mixed / hard}
 ```
 
 ## 🔎 Referencias
