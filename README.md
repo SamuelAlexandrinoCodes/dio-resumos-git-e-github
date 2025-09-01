@@ -1,7 +1,7 @@
 
 # DIO | Resumos Git e Github
 
-Repositorio para armazenar resumos sobre GIt e Github do curso Versionamento de Codigo com Git e Github (https://web.dio.me/)'
+Repositorio para armazenar resumos sobre GIt e Github do curso Versionamento de Codigo com Git e Github
 
 ## 📑 Documentacao
 - [Documentacao Git](https://git-scm.com/doc)
@@ -33,4 +33,4 @@ $ git reset --{soft / mixed / hard}
 ```
 
 ## 🔎 Referencias
--- [Digital Innovation One]().
+-- [Digital Innovation One](https://web.dio.me/).
