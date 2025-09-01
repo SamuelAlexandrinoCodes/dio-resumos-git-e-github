@@ -28,7 +28,7 @@ $ git log
 $ git reflog
 $ git status
 $ git commit -- amend -m"mensagem"
-$ git commit -m
+$ git commit -m"mensagem"
 $ git reset --{soft / mixed / hard}
 $ git checkout -b 'nome' // create new branch
 $ git checkout 'nome' // goto branch 'nome'
