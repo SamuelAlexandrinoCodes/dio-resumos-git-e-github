@@ -28,6 +28,8 @@ $ git log
 $ git reflog
 $ git status
 $ git add . 
+$ git push 'origin' 'main'
+$ git pull
 $ git commit -- amend -m"mensagem"
 $ git commit -m"mensagem"
 $ git reset --{soft / mixed / hard}
